@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+.game-window {
+  background-color: black;
+  width: 800px;
+  height: 800px;
+
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  border: 10px ridge brown;
+  border-radius: 10%;
+  overflow: hidden;
+
+  margin: auto;
+
+}
